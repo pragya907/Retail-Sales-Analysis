@@ -48,7 +48,7 @@ This project analyzes retail sales data using Python, SQL, and Power BI. The obj
 
 ## 📷 Dashboard Preview
 
-(Add dashboard_screenshot.png here after uploading to GitHub)
+![Retail Sales Dashboard](dashboard_screenshot.png)
 
 ---
 
